@@ -1,0 +1,122 @@
+    [
+        {
+            "id": "1",
+            "name": "Javanese Fried Rice",
+            "price": "50000",
+            "description": "This is the most delicious fried rice on earth."
+        },
+        {
+            "id": "2",
+            "name": "Bakmie Jakarta",
+            "price": "23500",
+            "description": "This is Mr. President's most favorite bakmie in Jakarta."
+        },
+        {
+            "id": "3",
+            "name": "Javanese Salad With Peanut Sauce (Pecel Madiun)",
+            "price": "75000",
+            "description": "This is traditional food originated from Madiun, East Java."
+        },
+        {
+            "id": "4",
+            "name": "Gudeg",
+            "price": "10000",
+            "description": "Gudeg is traditional food from Jogjakarta."
+        },
+        {
+            "id": "5",
+            "name": "Sego Kucing",
+            "price": "1500",
+            "description": "It doesn't literally mean rice with cat."
+        },
+        {
+            "id": "6",
+            "name": "Meat Ball",
+            "price": "12000",
+            "description": "Meat ball is everyone's favorite menu for lunch."
+        },
+        {
+            "id": "7",
+            "name": "Soto Lamongan Cak Har",
+            "price": "25000",
+            "description": "Very delicious food that a lot of Surabayans eat every day."
+        },
+        {
+            "id": "8",
+            "name": "Maduranese Chicken Satay",
+            "price": "18000",
+            "description": "Maduranese chicken satay is very delicious and well-known for its soft texture and small cut."
+        },
+        {
+            "id": "9",
+            "name": "Ponorogo Chicken Satay",
+            "price": "32000",
+            "description": "Tasty chicken satay, originated from Ponorogo, East Java. Well-known for its thin-but-wide cut."
+        },
+        {
+            "id": "10",
+            "name": "Kebuli Rice",
+            "price": "43500",
+            "description": "Kebuli rice is good for your health since it is made based on herbs and healthy cattle meat."
+        },
+        {
+            "id": "11",
+            "name": "Fried Chicken Noodle",
+            "price": "17000",
+            "description": "Chicken noodle is a great option for having lunch with friends."
+        },
+        {
+            "id": "12",
+            "name": "Olive Wagyu A6 Steak (200gr)",
+            "price": "20000000",
+            "description": "The most tender and expensive steak in the entire universe."
+        },
+        {
+            "id": "13",
+            "name": "Wagyu A5 Ribeye (200gr)",
+            "price": "3000000",
+            "description": "Fancy steak to have dinner with your beloved ones."
+        },
+        {
+            "id": "14",
+            "name": "Tomahawk Steak",
+            "price": "2700000",
+            "description": "Giant steak that is intended for 7 people."
+        },
+        {
+            "id": "15",
+            "name": "Fuyunghai",
+            "price": "19000",
+            "description": "UGM students' most favorite cuisine."
+        },
+        {
+            "id": "16",
+            "name": "Scrambled Egg with Rice",
+            "price": "8500",
+            "description": "UGM students' most favorite food during the end of the month."
+        },
+        {
+            "id": "17",
+            "name": "Takoyaki",
+            "price": "13000",
+            "description": "Japanese street food to accompany you doing your homework."
+        },
+        {
+            "id": "18",
+            "name": "Yellow Rice",
+            "price": "10000",
+            "description": "Indonesians' most popular food for all sorts of celebrations."
+        },
+        {
+            "id": "19",
+            "name": "Peking Duck",
+            "price": "45000",
+            "description": "Good choice for duck lovers to have romantic dinner."
+        },
+        {
+            "id": "20",
+            "name": "Ramen Noodle",
+            "price": "32000",
+            "description": "Naruto's most favorite food in Konoha village."
+        }
+    ]
