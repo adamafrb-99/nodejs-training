@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "name": "Uchiha Sasuke",
+    "age": "19",
+    "address": "Konohagakure"
+  },
+  {
+    "id": "2",
+    "name": "Uzumaki Naruto",
+    "age": "19",
+    "address": "Konohagakure"
+  },
+  {
+    "id": "3",
+    "name": "Urashiki Otsutsuki",
+    "age": "120",
+    "address": "Jl. Kaliurang km. 21"
+  },
+  { "id": "4", "name": "Roronoa Zoro", "age": "21", "address": "Wano Kuni" },
+  { "id": "5", "name": "Vinsmoke Sanji", "age": "21", "address": "North Blue" },
+  {
+    "id": "6",
+    "name": "Levi Akcerman",
+    "age": "36",
+    "address": "The Island of Paradise"
+  },
+  { "id": "7", "name": "Pieck Finger", "age": "22", "address": "Marley" },
+  {
+    "id": "8",
+    "name": "Erwin Smith",
+    "age": "38",
+    "address": "The Island of Paradise"
+  },
+  { "id": "9", "name": "Fabio Wibmer", "age": "25", "address": "Vienna" },
+  { "id": "10", "name": "Sano Manjiro", "age": "27", "address": "Tokyo" },
+  {
+    "id": "11",
+    "name": "Kitaro Yamamoto",
+    "age": "29",
+    "address": "Jl. Kaliurang km. 7"
+  },
+  {
+    "id": "12",
+    "name": "Tanjiro Kun",
+    "age": "29",
+    "address": "Jl. Kaliurang km. 20"
+  },
+  { "id": "13", "name": "Uzumaki Karin", "age": "34", "address": "Otogakure" },
+  {
+    "id": "14",
+    "name": "Uzumaki Kanjuro",
+    "age": "34",
+    "address": "Otogakure"
+  },
+  { "id": "16", "name": "Uzumaki Ari", "age": "29", "address": "Cikarang" }
+]

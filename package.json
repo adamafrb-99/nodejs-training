@@ -1,11 +1,14 @@
 {
-  "name": "http-api",
+  "name": "nodejs-api-assignment",
   "version": "1.0.0",
-  "description": "",
+  "description": "Assignment 2 - NodeJS",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Adam Afriansyah Brahmana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "name": "Uchiha Sasuke",
+        "age": "19",
+        "address": "Konohagakure"
+    },
+    {
+        "id": "2",
+        "name": "Uzumaki Naruto",
+        "age": "19",
+        "address": "Konohagakure"
+    },
+    {
+        "id": "3",
+        "name": "Kaguya Otsutsuki",
+        "age": "129",
+        "address": "Otsutsuki village"
+    },
+    {
+        "id": "4",
+        "name": "Roronoa Zoro",
+        "age": "21",
+        "address": "Wano Kuni"
+    },
+    {
+        "id": "5",
+        "name": "Vinsmoke Sanji",
+        "age": "21",
+        "address": "North Blue"
+    },
+    {
+        "id": "6",
+        "name": "Levi Akcerman",
+        "age": "36",
+        "address": "The Island of Paradise"
+    },
+    {
+        "id": "7",
+        "name": "Pieck Finger",
+        "age": "22",
+        "address": "Marley"
+    },
+    {
+        "id": "8",
+        "name": "Erwin Smith",
+        "age": "38",
+        "address": "The Island of Paradise"
+    },
+    {
+        "id": "9",
+        "name": "Fabio Wibmer",
+        "age": "25",
+        "address": "Vienna"
+    },
+    {
+        "id": "10",
+        "name": "Sano Manjiro",
+        "age": "27",
+        "address": "Tokyo"
+    }
+]

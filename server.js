@@ -1,29 +1,17 @@
-const fs = require('fs');
-const http = require('http');
+const express = require('express');
+const app = express();
 
+app.use(express.json());
+app.use(express.urlencoded({extended: true}));
 
-const server = http.createServer((req, res) => {
-    if (req.method !== 'GET') {
-        res.end(`{"error": "Oops... ${http.STATUS_CODES[405]}"}`);
-    } else {
-        fs.readFile('db.json', (err, data) => {
-            if (err) {
-                return console.log(err.message);
-            }
+// Route
+const personRoute = require("./routes/person");
 
-            if (req.url !== '/foods') {
-                res.end(`{"error": "Oops.. ${http.STATUS_CODES[404]}"}`);
-            } else {
-                res.writeHead(200, { 'Content-Type': 'application/json' });
-                res.end(data);
-            }
+// Middleware
+const routeInfo = require('./middleware/routeInfo')
 
-        })
-    }
+app.use('/person', routeInfo, personRoute);
+
+app.listen(3000, () => {
+    console.log("Server listening on port 3000");
 });
-
-server.listen(8000, () => {
-    console.log("Server listening on port 8000");
-});
-
-console.log(__dirname)
